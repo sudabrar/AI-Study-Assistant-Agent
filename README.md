@@ -34,8 +34,8 @@ User Question → AI Agent → Gemini LLM → Response
 
 ## Demo
 
-See the demo video link provided in the repository.
+[See the demo video link provided in the repository.](https://drive.google.com/file/d/1XKIUiFEH2WRCJjQz_hSHSlP9zC2STESg/view?usp=sharing)
 
 ## Author
 
-Your Name
+Sud Abrar
